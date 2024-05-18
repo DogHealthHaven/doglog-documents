@@ -1,0 +1,44 @@
+[
+  {
+    "name": "feature",
+    "color": "0E4BDB",
+    "aliases": [],
+    "description": "新しい機能の製造タスクに使用",
+    "delete": false
+  },
+  {
+    "name": "bug",
+    "color": "D73A4A",
+    "aliases": [],
+    "description": "ソースコードの不具合を修正するタスクに使用",
+    "delete": false
+  },
+  {
+    "name": "enhancement",
+    "color": "D93F0B",
+    "aliases": [],
+    "description": "既存機能のリファクタリング、性能改善するタスクに使用",
+    "delete": false
+  },
+  {
+    "name": "document",
+    "color": "0075CA",
+    "aliases": [],
+    "description": "ドキュメントの作成、更新するタスクに使用",
+    "delete": false
+  },
+  {
+    "name": "Infrastructure",
+    "color": "7057FF",
+    "aliases": [],
+    "description": "インフラストラクチャ関連のタスクに使用",
+    "delete": false
+  },
+  {
+    "name": "meta",
+    "color": "008672",
+    "aliases": [],
+    "description": "開発プロセスの改善や運用に関するタスクに使用",
+    "delete": false
+  }
+]

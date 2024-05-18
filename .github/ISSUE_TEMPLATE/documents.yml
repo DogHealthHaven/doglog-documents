@@ -1,0 +1,30 @@
+name: 設計資料の作成・更新
+description: 設計資料の作成・更新はこちら
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: 概要
+      description: 作成・更新を行う設計資料の概要を記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 理由
+      description: なぜこの設計資料の作成・更新を行うのかを記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: mean
+    attributes:
+      label: 手段
+      description: |
+        設計資料の作成・更新を行う手段を記載してください。
+        例: draw.ioを用いて作成する
+    validations:
+      required: true
+  - type: textarea
+    id: supplement
+    attributes:
+      label: 補足
